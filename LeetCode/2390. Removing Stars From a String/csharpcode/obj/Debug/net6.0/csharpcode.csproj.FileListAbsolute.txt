@@ -1,0 +1,12 @@
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/bin/Debug/net6.0/csharpcode.deps.json
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/bin/Debug/net6.0/csharpcode.dll
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/bin/Debug/net6.0/csharpcode.pdb
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.csproj.AssemblyReference.cache
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.AssemblyInfoInputs.cache
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.AssemblyInfo.cs
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.csproj.CoreCompileInputs.cache
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.dll
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/refint/csharpcode.dll
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/csharpcode.pdb
+/Users/psychehose/Study/PS/LeetCode/2390. Removing Stars From a String/csharpcode/obj/Debug/net6.0/ref/csharpcode.dll
