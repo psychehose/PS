@@ -1,0 +1,15 @@
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/bin/Debug/net6.0/Dota2_Senate
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/bin/Debug/net6.0/Dota2_Senate.deps.json
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/bin/Debug/net6.0/Dota2_Senate.runtimeconfig.json
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/bin/Debug/net6.0/Dota2_Senate.dll
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/bin/Debug/net6.0/Dota2_Senate.pdb
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.csproj.AssemblyReference.cache
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.AssemblyInfoInputs.cache
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.AssemblyInfo.cs
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.csproj.CoreCompileInputs.cache
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.dll
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/refint/Dota2_Senate.dll
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.pdb
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/Dota2_Senate.genruntimeconfig.cache
+/Users/psychehose/Study/PS/LeetCode/Dota2_Senate/obj/Debug/net6.0/ref/Dota2_Senate.dll
